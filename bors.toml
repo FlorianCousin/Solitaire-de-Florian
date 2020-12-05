@@ -1,0 +1,7 @@
+# https://bors.tech/documentation/
+
+required_approvals = 0
+
+delete_merged_branches = true
+
+use_squash_merge = true
