@@ -1,5 +1,7 @@
 # https://bors.tech/documentation/
 
+status = []
+
 required_approvals = 0
 
 delete_merged_branches = true
